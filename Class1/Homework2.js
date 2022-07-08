@@ -54,4 +54,10 @@ console.log(`the last character of sentence 3 is ${sentence3_lastchar}`);
 
 // verifying word Body is only present once
 
+<<<<<<< HEAD
 // confused about this one
+=======
+//confused about this one
+
+
+>>>>>>> 8ef60d02763b5cd086654f6702000f5a0bc0e857
