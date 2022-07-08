@@ -53,11 +53,5 @@ let sentence3_lastchar = sentence3.charAt(sentence3_lastIndex);
 console.log(`the last character of sentence 3 is ${sentence3_lastchar}`);
 
 // verifying word Body is only present once
-
-<<<<<<< HEAD
-// confused about this one
-=======
-//confused about this one
-
-
->>>>>>> 8ef60d02763b5cd086654f6702000f5a0bc0e857
+let sen3BodyOccurence = sen3tolowercase.includes('body') <= 1
+console.log(`\nThe word Body occurs only once ? --> ${sen3BodyOccurence}`);
