@@ -54,5 +54,4 @@ console.log(`the last character of sentence 3 is ${sentence3_lastchar}`);
 
 // verifying word Body is only present once
 
-let bodyPresentOnce = sen3tolowercase.includes('bodies') == 1 ?;
-
+// confused about this one
